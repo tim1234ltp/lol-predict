@@ -9,4 +9,5 @@ Through observing KDA of players who have different team role, summoner skills a
 The dataset is from [Kaggle](https://www.kaggle.com/paololol/league-of-legends-ranked-matches/data).
 
 
-It contains 180000 ranked NA and EUW region matches (retreived on 1st March). They are all season 7 games. After data cleaning, dataset is shrinked to about 104000 games.
+It contains 180000 ranked NA and EUW region matches (retreived on 1st March). They are all season 7 games.
+After data cleaning, dataset is shrinked to about 100000 games.
