@@ -11,3 +11,7 @@ The dataset is from [Kaggle](https://www.kaggle.com/paololol/league-of-legends-r
 
 It contains 180000 ranked NA and EUW region matches (retreived on 1st March). They are all season 7 games.
 After data cleaning, dataset is shrinked to about 100000 games.
+
+## Findings
+I find using Logistic Regression on players KDA can predict wins of matches with 79% accuracy: <br>
+![plot](LRbasedKDAPrediction.png)
